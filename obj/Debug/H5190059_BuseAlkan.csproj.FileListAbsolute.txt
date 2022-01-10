@@ -1,0 +1,15 @@
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.csprojAssemblyReference.cache
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.formLogin.resources
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.formSifreGuncelle.resources
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.csproj.GenerateResource.cache
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\bin\Debug\H5190059_BuseAlkan.exe.config
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\bin\Debug\H5190059_BuseAlkan.exe
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\bin\Debug\H5190059_BuseAlkan.pdb
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.Properties.Resources.resources
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.csproj.CoreCompileInputs.cache
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.exe
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.pdb
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.formAnaSayfa.resources
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.formMusteri.resources
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.formAracCikis.resources
+C:\Users\buse_\source\repos\H5190059_BuseAlkan\obj\Debug\H5190059_BuseAlkan.formAracGiris.resources
